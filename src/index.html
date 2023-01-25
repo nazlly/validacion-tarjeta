@@ -6,9 +6,24 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
+    <form action="">
+<header>pagos credito</header>
+ <h1>CREDIBAN</h1>
+<main>
+  <div id="credito" class="box">
+  <h2 >PAGO DE CUOTA</h2>
+  </div>
+<p>¡¡¡RECUERDA  QUE  PUEDES PAGAR TU CUOTA EN LINEA !!!</p>
+<p>INGRESA TUS DATOS PARA GENERAR TU TRANSACCION</p>
+<input type="number" id="referencia" placeholder="numero de ref o cedula">
+    <input type="text" id="cardNumber" maxlength="16" placeholder="numero de tarjeta">
+    <input type="button" id="payButton" value="PAGAR">
+    <div id="resultado" class="message"></div>
+</main>
+    <footer>
+      <p>Contacto: <i class="fa-solid fa-phone"></i> 01 8000 415 415 00 <i class="fa-solid fa-envelope"></i> pagosenlines@crediban.co</p>
+    </footer>
+  </form>
     <script src="index.js" type="module"></script>
   </body>
 </html>
