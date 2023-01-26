@@ -17,7 +17,7 @@
 este  proyecto consiste  en la  creacion de una  pagina  web en la que  podamos incluir la  validacion de la  tarjeta  de credito en ella, por  este  motivo se credo la  pagina  para  portal de pago de  cuotas en la  cual se pone  en practica  el diseño de la  parte  1 de  validacion car number.
 
 ## 2. imagen final del proyecto 
-![proyecto](.C:\Users\SALOME\Desktop\proyecto 1.png)
+![proyecto](proyecto1.png)
 
 ## 3. investigacion
 
@@ -32,7 +32,7 @@ Los objetivos son: evitar al usuario la  visita a un sitio de forma presencial p
 Esta aplicación le permite a los usuarios realizar el pago del servicio desde un sitio web, desde la comodidad de su casa o de igual manera desde el sitio en el que se encuentran haciendo posible el uso de la tarjeta de crédito para dicho pago rapido, sin filas y sin excusas.
 
 ## 3.3 primer prototipo
-![prototipo](.C:\Users\SALOME\Desktop\prototipo 1.jpeg)
+![prototipo](prototipo1.jpeg)
 
 ## 3.4 comentarios de prototipo
 
@@ -40,6 +40,6 @@ este promer  prototipo se diseño a lapiz y papel despues de definir a quien est
 por  diseño se modifico la  estructura del diseño permitiendo al usuario tener una mejor experiencia al visitar el sitio web 
 
 ## 3.5 prototipo final
-![prototipo](.C:\Users\SALOME\Desktop\proyecto 1.png)
+![prototipo](proyecto1.png)
 
 
